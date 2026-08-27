@@ -1,0 +1,11 @@
+.env
+.env.*
+*.log
+__pycache__/
+node_modules/
+outputs/
+work/
+tmp/
+temp/
+cache/
+
