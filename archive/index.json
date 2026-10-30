@@ -1,7 +1,20 @@
 {
   "schema_version": 1,
-  "latest": "2026-10-28",
+  "latest": "2026-10-30",
   "reports": [
+    {
+      "date": "2026-10-30",
+      "url": "archive/Amazon_Daily_Intelligence_2026-10-30.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 4,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": "新增清单与礼品登记操作",
+      "title_source": "selected_source_link",
+      "title_original": "Alexa for Shopping 新增清单与礼品登记操作",
+      "selected_item_url": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-new-capabilities"
+    },
     {
       "date": "2026-10-28",
       "url": "archive/Amazon_Daily_Intelligence_2026-10-28.html",
@@ -394,6 +407,19 @@
     }
   ],
   "history_reports": [
+    {
+      "date": "2026-10-30",
+      "url": "archive/Amazon_Daily_Intelligence_2026-10-30.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 4,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": "新增清单与礼品登记操作",
+      "title_source": "selected_source_link",
+      "title_original": "Alexa for Shopping 新增清单与礼品登记操作",
+      "selected_item_url": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-new-capabilities"
+    },
     {
       "date": "2026-10-28",
       "url": "archive/Amazon_Daily_Intelligence_2026-10-28.html",
