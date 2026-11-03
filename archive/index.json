@@ -1,7 +1,20 @@
 {
   "schema_version": 1,
-  "latest": "2026-10-30",
+  "latest": "2026-11-03",
   "reports": [
+    {
+      "date": "2026-11-03",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-03.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 3,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": "假日退货窗口延长",
+      "title_source": "selected_source_link",
+      "title_original": "假日退货窗口延长，西班牙及部分品类另有期限",
+      "selected_item_url": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/18b2c703-6ef4-4f16-859f-bd33ff159ed7"
+    },
     {
       "date": "2026-10-30",
       "url": "archive/Amazon_Daily_Intelligence_2026-10-30.html",
@@ -407,6 +420,19 @@
     }
   ],
   "history_reports": [
+    {
+      "date": "2026-11-03",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-03.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 3,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": "假日退货窗口延长",
+      "title_source": "selected_source_link",
+      "title_original": "假日退货窗口延长，西班牙及部分品类另有期限",
+      "selected_item_url": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/18b2c703-6ef4-4f16-859f-bd33ff159ed7"
+    },
     {
       "date": "2026-10-30",
       "url": "archive/Amazon_Daily_Intelligence_2026-10-30.html",
