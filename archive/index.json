@@ -1,7 +1,20 @@
 {
   "schema_version": 1,
-  "latest": "2026-11-03",
+  "latest": "2026-11-04",
   "reports": [
+    {
+      "date": "2026-11-04",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-04.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 2,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": "进口申报须提供产品标识符",
+      "title_source": "selected_source_link",
+      "title_original": "进口申报须提供产品标识符，先核对直送商品数据",
+      "selected_item_url": "https://taxation-customs.ec.europa.eu/news/product-identifiers-e-commerce-imports-mandatory-1-november-2026-2026-11-03_en"
+    },
     {
       "date": "2026-11-03",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-03.html",
@@ -420,6 +433,19 @@
     }
   ],
   "history_reports": [
+    {
+      "date": "2026-11-04",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-04.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 2,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": "进口申报须提供产品标识符",
+      "title_source": "selected_source_link",
+      "title_original": "进口申报须提供产品标识符，先核对直送商品数据",
+      "selected_item_url": "https://taxation-customs.ec.europa.eu/news/product-identifiers-e-commerce-imports-mandatory-1-november-2026-2026-11-03_en"
+    },
     {
       "date": "2026-11-03",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-03.html",
