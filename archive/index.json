@@ -1,7 +1,20 @@
 {
   "schema_version": 1,
-  "latest": "2026-11-04",
+  "latest": "2026-11-05",
   "reports": [
+    {
+      "date": "2026-11-05",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-05.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 1,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": "Shop Direct新增商家工作台",
+      "title_source": "selected_source_link",
+      "title_original": "Shop Direct 新增商家工作台，站外目录可自助接入",
+      "selected_item_url": "https://www.aboutamazon.com/news/retail/amazon-shop-direct-merchant-workspace"
+    },
     {
       "date": "2026-11-04",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-04.html",
@@ -433,6 +446,19 @@
     }
   ],
   "history_reports": [
+    {
+      "date": "2026-11-05",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-05.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 1,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": "Shop Direct新增商家工作台",
+      "title_source": "selected_source_link",
+      "title_original": "Shop Direct 新增商家工作台，站外目录可自助接入",
+      "selected_item_url": "https://www.aboutamazon.com/news/retail/amazon-shop-direct-merchant-workspace"
+    },
     {
       "date": "2026-11-04",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-04.html",
