@@ -1,7 +1,20 @@
 {
   "schema_version": 1,
-  "latest": "2026-11-05",
+  "latest": "2026-11-06",
   "reports": [
+    {
+      "date": "2026-11-06",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-06.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 2,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": "2027年美国费用公布",
+      "title_source": "selected_source_link",
+      "title_original": "2027 年美国费用公布，仓储与低库存费将改算法",
+      "selected_item_url": "https://sellercentral.amazon.com/seller-forums/discussions/t/bc3deccc-28c6-47c1-ade3-9fbed1f29316"
+    },
     {
       "date": "2026-11-05",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-05.html",
@@ -446,6 +459,19 @@
     }
   ],
   "history_reports": [
+    {
+      "date": "2026-11-06",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-06.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 2,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": "2027年美国费用公布",
+      "title_source": "selected_source_link",
+      "title_original": "2027 年美国费用公布，仓储与低库存费将改算法",
+      "selected_item_url": "https://sellercentral.amazon.com/seller-forums/discussions/t/bc3deccc-28c6-47c1-ade3-9fbed1f29316"
+    },
     {
       "date": "2026-11-05",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-05.html",
