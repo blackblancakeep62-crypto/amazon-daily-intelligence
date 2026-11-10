@@ -1,7 +1,20 @@
 {
   "schema_version": 1,
-  "latest": "2026-11-06",
+  "latest": "2026-11-10",
   "reports": [
+    {
+      "date": "2026-11-10",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-10.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 2,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": null,
+      "title_source": null,
+      "title_original": null,
+      "selected_item_url": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-text-to-shop"
+    },
     {
       "date": "2026-11-06",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-06.html",
@@ -459,6 +472,19 @@
     }
   ],
   "history_reports": [
+    {
+      "date": "2026-11-10",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-10.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 2,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": null,
+      "title_source": null,
+      "title_original": null,
+      "selected_item_url": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-text-to-shop"
+    },
     {
       "date": "2026-11-06",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-06.html",
