@@ -1,7 +1,20 @@
 {
   "schema_version": 1,
-  "latest": "2026-11-10",
+  "latest": "2026-11-11",
   "reports": [
+    {
+      "date": "2026-11-11",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-11.html",
+      "status": "B",
+      "status_label": "重要更新",
+      "status_source": "existing_notification_decision",
+      "selected_count": 0,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": null,
+      "title_source": null,
+      "title_original": null,
+      "selected_item_url": null
+    },
     {
       "date": "2026-11-10",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-10.html",
