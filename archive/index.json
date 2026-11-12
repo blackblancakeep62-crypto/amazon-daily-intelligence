@@ -1,7 +1,20 @@
 {
   "schema_version": 1,
-  "latest": "2026-11-11",
+  "latest": "2026-11-12",
   "reports": [
+    {
+      "date": "2026-11-12",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-12.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 1,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": null,
+      "title_source": null,
+      "title_original": null,
+      "selected_item_url": "https://www.aboutamazon.co.uk/news/retail/meet-alexa-for-shopping-your-personalised-ai-assistant-on-amazon"
+    },
     {
       "date": "2026-11-11",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-11.html",
@@ -485,6 +498,19 @@
     }
   ],
   "history_reports": [
+    {
+      "date": "2026-11-12",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-12.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 1,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": null,
+      "title_source": null,
+      "title_original": null,
+      "selected_item_url": "https://www.aboutamazon.co.uk/news/retail/meet-alexa-for-shopping-your-personalised-ai-assistant-on-amazon"
+    },
     {
       "date": "2026-11-10",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-10.html",
