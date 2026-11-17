@@ -1,7 +1,20 @@
 {
   "schema_version": 1,
-  "latest": "2026-11-12",
+  "latest": "2026-11-17",
   "reports": [
+    {
+      "date": "2026-11-17",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-17.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 3,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": "Alexa短信购物扩大开放",
+      "title_source": "selected_source_link",
+      "title_original": "Alexa 短信购物扩大开放，原邀请阶段已有实质变化",
+      "selected_item_url": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-text-to-shop"
+    },
     {
       "date": "2026-11-12",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-12.html",
@@ -498,6 +511,19 @@
     }
   ],
   "history_reports": [
+    {
+      "date": "2026-11-17",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-17.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 3,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": "Alexa短信购物扩大开放",
+      "title_source": "selected_source_link",
+      "title_original": "Alexa 短信购物扩大开放，原邀请阶段已有实质变化",
+      "selected_item_url": "https://www.aboutamazon.com/news/retail/alexa-for-shopping-text-to-shop"
+    },
     {
       "date": "2026-11-12",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-12.html",
