@@ -1,7 +1,20 @@
 {
   "schema_version": 1,
-  "latest": "2026-11-18",
+  "latest": "2026-11-19",
   "reports": [
+    {
+      "date": "2026-11-19",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-19.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 1,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": "Alexa可设置整份清单降价提醒",
+      "title_source": "selected_source_link",
+      "title_original": "购物清单增加促销触点：Alexa 可设置整份清单降价提醒",
+      "selected_item_url": "https://www.aboutamazon.com/news/retail/amazon-wish-list"
+    },
     {
       "date": "2026-11-18",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-18.html",
@@ -524,6 +537,19 @@
     }
   ],
   "history_reports": [
+    {
+      "date": "2026-11-19",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-19.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 1,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": "Alexa可设置整份清单降价提醒",
+      "title_source": "selected_source_link",
+      "title_original": "购物清单增加促销触点：Alexa 可设置整份清单降价提醒",
+      "selected_item_url": "https://www.aboutamazon.com/news/retail/amazon-wish-list"
+    },
     {
       "date": "2026-11-17",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-17.html",
