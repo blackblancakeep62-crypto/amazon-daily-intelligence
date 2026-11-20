@@ -1,7 +1,20 @@
 {
   "schema_version": 1,
-  "latest": "2026-11-19",
+  "latest": "2026-11-20",
   "reports": [
+    {
+      "date": "2026-11-20",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-20.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 1,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": "美国感恩节购物意向：提前采购",
+      "title_source": "selected_source_link",
+      "title_original": "美国感恩节购物意向：提前采购与 AI 辅助选购并行",
+      "selected_item_url": "https://nrf.com/media-center/press-releases/183-million-consumers-expected-to-shop-during-thanksgiving-weekend"
+    },
     {
       "date": "2026-11-19",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-19.html",
@@ -537,6 +550,19 @@
     }
   ],
   "history_reports": [
+    {
+      "date": "2026-11-20",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-20.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 1,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": "美国感恩节购物意向：提前采购",
+      "title_source": "selected_source_link",
+      "title_original": "美国感恩节购物意向：提前采购与 AI 辅助选购并行",
+      "selected_item_url": "https://nrf.com/media-center/press-releases/183-million-consumers-expected-to-shop-during-thanksgiving-weekend"
+    },
     {
       "date": "2026-11-19",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-19.html",
