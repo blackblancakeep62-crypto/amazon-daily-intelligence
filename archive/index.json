@@ -1,7 +1,20 @@
 {
   "schema_version": 1,
-  "latest": "2026-11-20",
+  "latest": "2026-11-23",
   "reports": [
+    {
+      "date": "2026-11-23",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-23.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 2,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": "新获资格后须主动报名",
+      "title_source": "selected_source_link",
+      "title_original": "欧洲五站 Premium Shipping：新获资格后须主动报名",
+      "selected_item_url": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/4799683b-8915-4994-b95e-efcac8e6e57c"
+    },
     {
       "date": "2026-11-20",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-20.html",
@@ -550,6 +563,19 @@
     }
   ],
   "history_reports": [
+    {
+      "date": "2026-11-23",
+      "url": "archive/Amazon_Daily_Intelligence_2026-11-23.html",
+      "status": "A",
+      "status_label": "有新增",
+      "status_source": "existing_notification_decision",
+      "selected_count": 2,
+      "selected_count_source": "recall_candidates.SELECTED",
+      "short_title": "新获资格后须主动报名",
+      "title_source": "selected_source_link",
+      "title_original": "欧洲五站 Premium Shipping：新获资格后须主动报名",
+      "selected_item_url": "https://sellercentral.amazon.co.uk/seller-forums/discussions/t/4799683b-8915-4994-b95e-efcac8e6e57c"
+    },
     {
       "date": "2026-11-20",
       "url": "archive/Amazon_Daily_Intelligence_2026-11-20.html",
